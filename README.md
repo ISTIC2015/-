@@ -8,4 +8,5 @@ code by python
 	python predict.py test model out
 3. Evaluate
 	python evaluate.py out gold
+
 ----------------------------------------------------
